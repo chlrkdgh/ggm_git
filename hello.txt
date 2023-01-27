@@ -10,3 +10,6 @@ git commit -m "내 첫번쨰 커밋"
 git config --global user.name "chlrkdgh"
 git config --global user.email "chlrkdghfkddl@naver.com"
 
+test.txt 파일을 만들고
+안녕하세요 자기이름 을 쓴다음
+해당 파일을 add , commit, push 를 이용해서 깃허브에 올리기 
