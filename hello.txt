@@ -5,3 +5,8 @@ ctrl + ~
 git init 은 이 디렉토리를 깃에서 관리하는 디렉토리로 만드는 것
 스테이지에 거하는 명령어
 git add 파일명
+git commit -m "내 첫번쨰 커밋"
+
+git config --global user.name "chlrkdgh"
+
+git config --global user.email "chlrkdghfkddl@naver.com"
