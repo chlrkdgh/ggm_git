@@ -10,4 +10,3 @@ git commit -m "내 첫번쨰 커밋"
 git config --global user.name "chlrkdgh"
 git config --global user.email "chlrkdghfkddl@naver.com"
 
-adasa
