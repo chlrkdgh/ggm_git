@@ -1,2 +1,13 @@
-안녕하세요
-이 리포지터리는 겜마고 4반 git 연습용 리포지터리입니다.
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=230&section=header&text=최강호&fontSize=89&animation=fadeIn&fontColor=DDDDDD)
+
+* * *
+> *자기소개*
+* * *
+
+1. 거주지 : 경기도 화성시
+
+2. 좋아하는 것 : 명상
+
+3. 싫어하는 것 : 딱히 없음
+
+4. 즐겨하는 것 : 기타 살짝
